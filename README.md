@@ -1,1 +1,1 @@
-# djangoCrud
+# Django-Crud
